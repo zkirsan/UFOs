@@ -30,4 +30,3 @@ Below are a few suggestions for improving the website,
 Indeed, it should have a map, which is consisting geolocation for data entry and display. 
 
 
-T
